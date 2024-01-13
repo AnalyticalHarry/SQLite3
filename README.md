@@ -30,6 +30,4 @@ pip install sqlite3
 
 - Stored Procedures: SQLite does not support stored procedures, which can limit its use in certain scenarios that require complex database logic.
 
-Single User Write: SQLite is designed for single-user write scenarios. If you need multiple users to write to the database simultaneously, you might need to consider other database solutions.
-
-When choosing a database 
+- Single User Write: SQLite is designed for single-user write scenarios. If you need multiple users to write to the database simultaneously, you might need to consider other database solutions.
