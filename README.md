@@ -12,21 +12,27 @@ pip install sqlite3
 ```
 
 Student Database Managment System
+
 https://github.com/AnalyticalHarry/SQLite3-LassoRegressionUsingFinanceData/blob/main/1%20Student%20Database.ipynb
 
-Converting CSV File to Database Table
+### Converting CSV File to Database Table
+
 https://github.com/AnalyticalHarry/SQLite3-LassoRegressionUsingFinanceData/blob/main/2%20Customer%20Database%20-%20Converting%20csv%20file%20to%20database.ipynb
 
-Converting Database to CSV & Data Visualisation
+### Converting Database to CSV & Data Visualisation
+
 https://github.com/AnalyticalHarry/SQLite3-LassoRegressionUsingFinanceData/blob/main/3%20Converting%20Database%20to%20CSV%20%26%20Data%20Visualisation.ipynb
 
-Employee Data Collection
+### Employee Data Collection
+
 https://github.com/AnalyticalHarry/SQLite3-LassoRegressionUsingFinanceData/blob/main/4%20Employee%20Data%20Collection.ipynb
 
-Stock DataBase
+### Stock DataBase
+
 https://github.com/AnalyticalHarry/SQLite3-LassoRegressionUsingFinanceData/blob/main/5%20Stock%20DataBase%20SQL.ipynb
 
-LASSO REGRESSION : SQL DATABASE (MSFT & AAPL)
+### LASSO REGRESSION : SQL DATABASE (MSFT & AAPL)
+
 https://github.com/AnalyticalHarry/SQLite3-LassoRegressionUsingFinanceData/blob/main/6%20Lasso%20Regression%20SQL%20Database.ipynb
 
 ### Advantages:
